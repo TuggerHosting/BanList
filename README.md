@@ -1,5 +1,5 @@
-# TuggerHosting
-TuggerHosting FAG Ban-List
+# TuggerHosting FAG Ban-List
+Why reinvent the wheel? Block known hackers and cheaters. 
 
 ## How To
 * **Add or remove** from [banned_user.cfg](banned_user.cfg).
