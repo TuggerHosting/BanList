@@ -1,13 +1,13 @@
 # TuggerHosting
-TuggerHosting files, utilities, and banlist
+TuggerHosting FAG Ban-List
 
-# Tugger's ban list uses FAGBL
 ## How To
-* Add or remove from [banned_user.cfg](banned_user.cfg).
-
-* Then create a pull request to merge into the master branch.
-
+* **Add or remove** from [banned_user.cfg](banned_user.cfg).
+* **Append** the Steam ID of the new ban.
+* **Comment** the new ban with ``// PLAYERNAME and OFFENSE``
+* **Date** in ``yyyy-mm-dd`` at the top
+* **Create a pull request** to merge into the master branch.
 
 ## FAQ
  * What does FAGBL stand for?
-  * "FAGBL" or "FAG ban-list" stands for "Fucking Arbitrary Game Ban List"
+  * *"FAGBL" or "FAG ban-list" stands for "Fucking Arbitrary Game Ban List"*
