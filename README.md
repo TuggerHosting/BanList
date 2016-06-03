@@ -1,4 +1,4 @@
-# TuggerHosting FAG Ban-List
+# Official FAG Ban-List
 Why reinvent the wheel? Block known hackers and cheaters. 
 
 ## How To
@@ -10,4 +10,4 @@ Why reinvent the wheel? Block known hackers and cheaters.
 
 ## FAQ
  * What does FAGBL stand for?
-  * *"FAGBL" or "FAG ban-list" stands for "Fucking Arbitrary Game Ban List"*
+  * *"FAGBL" or "FAG ban-list" stands for "Federated Arbitrary Game Ban List"*
